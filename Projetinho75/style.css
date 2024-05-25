@@ -1,0 +1,280 @@
+body {
+   background: linear-gradient(90deg, rgb(1, 0, 42), rgb(16, 0, 192), rgb(32, 36, 249));
+   color: white;
+   font-family: "Poppins", sans-serif;
+}
+
+
+.Text1 {
+    color: aqua;
+    position: absolute;
+    top: 16%;
+    left: 27%;
+}
+
+
+.imagem1 {
+    display: flex;
+    width: 207px;
+    height: 207px;
+    position: absolute;
+    top: 57%;
+    left: 65%;
+    opacity: 78%;
+}
+
+.Text2  {
+    color: aqua;
+    position: absolute;
+    top: 58%;
+    left: 19%;
+}
+
+
+
+.Text3  {
+    position: absolute;
+    top: 66%;
+    left: 19%;
+}
+
+
+.Text4 {
+    position: absolute;
+    top: 70%;
+    left: 19%;
+}
+
+
+.Text5 {
+    color: aqua;
+    position: absolute;
+    top: 76%;
+    left: 19%;
+}
+
+
+
+.container {
+    width: 730px;
+    height: 130px;
+    background: transparent;
+    border: 2px solid rgb(255, 255, 255);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 30px 40px;
+    position: absolute;
+    top: 60%;
+    left: 17%;
+
+}
+
+
+
+.photoshop {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 87%;
+    left: 19%;
+}
+
+
+
+.ilustrator {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 87%;
+    left: 23%;
+}
+
+
+
+.premiere {
+    display: flex;
+    width: 36px;
+    height: 36px;
+    position: absolute;
+    top: 88%;
+    left: 28%;
+}
+
+
+
+
+.after {
+    display: flex;
+    width: 56px;
+    height: 56px;
+    position: absolute;
+    top: 86%;
+    left: 31%;
+}
+
+
+.programa {
+    color: aqua;
+    position: absolute;
+    top: 106%;
+    left: 19%;
+}
+
+
+
+.linha {
+    display: flex;
+    width: 50px;
+    height: 50px;
+}
+
+
+.container2 {
+    width: 730px;
+    height: 130px;
+    background: transparent;
+    border: 2px solid rgb(255, 255, 255);
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+    padding: 30px 40px;
+    position: absolute;
+    top: 110%;
+    left: 17%;
+
+}
+
+
+.sobremim {
+    position: absolute;
+    top: 116%;
+    left: 19%;
+}
+
+
+.sobremim2 {
+    position: absolute;
+    top: 120%;
+    left: 19%;
+}
+
+
+
+.sobremim3 {
+    position: absolute;
+    top: 124%;
+    left: 19%;
+}
+
+
+.sobremim4 {
+    position: absolute;
+    top: 30%;
+    left: 0%;
+}
+
+
+.sobremim5 {
+    position: absolute;
+    top: 60%;
+    left: 0%;
+}
+
+
+.skils {
+    color: aqua;
+    position: absolute;
+    top: 200%;
+    left: 0%;
+}
+
+
+.html {
+    position: absolute;
+    top: 300%;
+    left: 0%;
+}
+
+
+.css {
+    position: absolute;
+    top: 300%;
+    left: 30%;
+}
+
+
+.java {
+    position: absolute;
+    top: 300%;
+    left: 60%;
+    display: flex;
+    width: 96px;
+    height: 96px;
+}
+
+
+.proje {
+    color: aqua;
+    position: absolute;
+    top: 490%;
+    left: 2%;
+}
+
+
+
+.Cafeteria img {
+    display: flex;
+    width: 317px;
+    height: 150px;
+    position: absolute;
+    top: 650%;
+    left: 2%;
+
+}
+
+
+
+.paglogin img {
+    display: flex;
+    height: 150px;
+    width: 317px;
+    position: absolute;
+    top: 650%;
+    left: 120%;
+}
+
+
+
+
+
+.contacts {
+    position: absolute;
+    top: 940%;
+    left: 2%;
+    color: aqua;
+}
+
+
+
+.github {
+    position: absolute;
+    top: 1090%;
+    left: 2%;
+}
+
+
+
+.linkedin {
+    position: absolute;
+    top: 1090%;
+    left: 50%;
+}
+
+
+
+.behance {
+    position: absolute;
+    top: 1090%;
+    left: 98%;
+}
